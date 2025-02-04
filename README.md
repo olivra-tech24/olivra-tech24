@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/olivra-tech24">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=olivra-tech24&theme=jolly&show_icons=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivra-tech24&layout=compact&langs_count=16&theme=jolly"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=olivra-tech24&theme=buefy&show_icons=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivra-tech24&layout=compact&langs_count=16&theme=buefy"/>
 </div>
 <div style=": inline_block"><br> 
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/172px-Python-logo-notext.svg.png" alt="Glau-Python" width="55" height="60">
