@@ -2,15 +2,15 @@
 
 <div align="center">
   <a href="https://github.com/olivra-tech24">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=olivra-tech24&theme=buefy&show_icons=true" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivra-tech24&layout=compact&langs_count=16&theme=buefy" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=olivra-tech24&theme=jolly&show_icons=true" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivra-tech24&layout=compact&langs_count=16&theme=jolly" />
   </a>
 </div>
 
 <div style=": inline_block"><br> 
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/172px-Python-logo-notext.svg.png" alt="Glau-Python" width="50" height="60">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" alt="Glau-HTML" width="50" height="60">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png" alt="Glau-CSS" width="50" height="60">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/172px-Python-logo-notext.svg.png" alt="Glau-Python" width="50" height="55">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" alt="Glau-HTML" width="50" height="55">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/544px-CSS3_logo_and_wordmark.svg.png" alt="Glau-CSS" width="50" height="55">
 </div>
     
 ##
