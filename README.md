@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/olivra-tech24">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=olivra-tech24&theme=jolly&show_icons=true" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivra-tech24&layout=compact&langs_count=16&theme=jolly" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=olivra-tech24&theme=dracula&show_icons=true" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivra-tech24&layout=compact&langs_count=16&theme=dracula" />
   </a>
 </div>
 
