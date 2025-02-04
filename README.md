@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/olivra-tech24">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=olivra-tech24&theme=buefy&show_icons=true" />
-    <img height="1600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivra-tech24&layout=compact&langs_count=16&theme=buefy" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivra-tech24&layout=compact&langs_count=16&theme=buefy" />
   </a>
 </div>
 
