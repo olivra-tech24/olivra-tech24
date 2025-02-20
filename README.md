@@ -22,6 +22,4 @@
 </div>
 
 
- ### 🐍 GitHub Activity Snake:
-![Snake animation](https://github.com/olivra-tech24/snake-github/blob/output/github-contribution-grid-snake.svg)
 
